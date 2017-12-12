@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    xml-mapping (0.10.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  xml-mapping (~> 0.10.0)
+
+BUNDLED WITH
+   1.16.0
